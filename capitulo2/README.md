@@ -39,10 +39,7 @@ La carpeta está organizada por temas específicos, cada uno con scripts ejecuta
 
 ## 🚀 Cómo ejecutar los Scripts (`.sce`)
 
-### Desde Scilab (Consola / SciNotes)
-1. Abre Scilab.
-2. Navega a la carpeta correspondiente usando el explorador de archivos interno.
-3. Ejecuta el archivo mediante la consola o la opción **Execute** en SciNotes (`Ctrl + Shift + E`)[cite: 1].
+
 
 ### Desde Visual Studio Code
 1. Abre la carpeta del repositorio en VS Code.
